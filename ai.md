@@ -17,7 +17,7 @@
 
 ## 🚀 自研项目
 
-#### [el-lowcode](https://page-test-huodoushigemi-f2b49a94d51c0541b4c4e0827acda06ce2c6aa7.gitlab.io/#/?file=https%3A%2F%2Foxbkrsyagojtbckytbjx.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Flcd%2Fed55db75f7fd92c7d1070ab197e9ae31.lcd.json) - 智能低代码平
+#### [el-lowcode](https://page-test-huodoushigemi-f2b49a94d51c0541b4c4e0827acda06ce2c6aa7.gitlab.io/#/?file=https%3A%2F%2Foxbkrsyagojtbckytbjx.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Flcd%2Fed55db75f7fd92c7d1070ab197e9ae31.lcd.json) - 智能低代码设计器
 
 - 首创 `AI Agent + 可视化拖拽模式`，支持 `Form` `H5` `BI` 多场景开发
 - 插件化架构设计，实现远程插件动态加载（已上架 5+官方插件）
